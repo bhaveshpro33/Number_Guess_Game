@@ -27,7 +27,7 @@ To run this game locally on your machine, follow these steps:
 
 1. Clone the repository:
     bash
-    git clone https://github.com/bhaveshpro333/Number_Guess_Game.git
+    git clone https://github.com/bhaveshpro33/Number_Guess_Game.git
     
 2. Navigate to the project directory:
     bash
